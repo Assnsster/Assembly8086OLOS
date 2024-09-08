@@ -302,7 +302,7 @@ check_valid_char:
 		pop bx
 		ret
 	.valid_chars:
-		db "abcdefghijklmnoprqstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_", 1
+		db "abcdefghijklmnoprqstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_&^*", 1
 
 cmd_read_drive_parameters:
 		push ax
