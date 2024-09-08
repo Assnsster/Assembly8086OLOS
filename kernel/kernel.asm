@@ -25,6 +25,6 @@ start_kernel:
 	%include "cmd.asm"
 
 kernel_data:
-	welcome_msg db "Welcome to OLOS vs 0.0.1 [28/12/2018]", 13, 10, 13, 10
-               db "Developed by Leonardo Ono (ono.leo@gmail.com)", 13, 10, 13, 10, 0
+	welcome_msg db "Chào Mừng bạn đến với MegaOs", 13, 10, 13, 10
+               db "Bản này là Bản tester", 13, 10, 13, 10, 0
 
