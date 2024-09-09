@@ -1,4 +1,4 @@
-		bits 16
+		bits 32
 
 		BYTES_PER_BLOCK equ 16
 		MEMORY_BLOCKS_COUNT equ 38876
