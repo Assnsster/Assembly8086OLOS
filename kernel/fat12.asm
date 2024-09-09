@@ -1,5 +1,5 @@
 ; reference: DOS interrupts - http://spike.scu.edu.au/~barry/interrupts.html
-		bits 16
+		bits 32
 
 		OLOS_FS_INT equ 31h
 
