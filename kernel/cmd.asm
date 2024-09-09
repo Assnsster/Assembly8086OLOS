@@ -1,4 +1,4 @@
-		bits 16
+		bits 32
 
 		OLOS_CMD_INT equ 21h
 
