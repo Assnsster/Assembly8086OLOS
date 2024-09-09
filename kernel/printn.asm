@@ -1,4 +1,4 @@
-bits 16
+bits 32
 org 100h
 
 start:
